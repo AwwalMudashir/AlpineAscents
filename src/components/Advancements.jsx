@@ -1,5 +1,5 @@
 import React from "react";
-import "./Advancements.css"; // External CSS for styling
+import "./advancements.css"; // External CSS for styling
 
 const advancements = [
   {
