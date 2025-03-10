@@ -1,5 +1,5 @@
 import React from "react";
-import "./Guidelines.css";
+import "./guidelines.css";
 
 const guidelines = [
   { id: 1, title: "Proper Gear", desc: "Always use high-quality gear suitable for the climb.", icon: "🎒" },
