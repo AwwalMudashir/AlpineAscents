@@ -5,22 +5,22 @@
       {
         "name": "Scrambling",
         "description": "A mix of hiking and climbing, often on steep rocky slopes.",
-        "image": "/scrambling.jpg"
+        "image": "/scrambling.webp"
       },
       {
         "name": "Rock Climbing",
         "description": "Using hands and feet to climb rock faces; may involve ropes and harnesses.",
-        "image": "/rock-climbing.jpg"
+        "image": "/rock-climbing.webp"
       },
       {
         "name": "Ice Climbing",
         "description": "Using ice axes and crampons to ascend frozen surfaces.",
-        "image": "/ice-climbing.jpg"
+        "image": "/ice-climbing.webp"
       },
       {
         "name": "Mixed Climbing",
         "description": "Combining rock and ice climbing techniques.",
-        "image": "/mixed-climbing.jpg"
+        "image": "/mixed-climbing.webp"
       }
     ]
   },
@@ -30,22 +30,22 @@
       {
         "name": "Belaying",
         "description": "Controlling the rope to catch a climber in case of a fall.",
-        "image": "/belaying.jpg"
+        "image": "/belaying.webp"
       },
       {
         "name": "Rappelling (Abseiling)",
         "description": "Descending a rope using a friction device.",
-        "image": "/rappelling.jpg"
+        "image": "/rappelling.webp"
       },
       {
         "name": "Fixed Ropes",
         "description": "Ropes anchored along a route for assistance.",
-        "image": "/fixed-ropes.jpg"
+        "image": "/fixed-ropes.webp"
       },
       {
         "name": "Glacier Travel & Rope Teaming",
         "description": "Moving across glaciers while roped together to prevent falls into crevasses.",
-        "image": "/glacier-travel.jpg"
+        "image": "/glacier-travel.webp"
       }
     ]
   },
