@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-section f1">
                 <div className="footer-logo">
-                    <img src="/logo1.png" className=' ' alt="Alpine Ascents" />
+                    <img src="/logo1.webp" className=' ' alt="Alpine Ascents" />
                 </div>
             </div>
 
