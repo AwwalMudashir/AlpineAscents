@@ -2,7 +2,7 @@
   {
     "id": "alpine",
     "name": "Alpine Style",
-    "image": "/alpine.jpg",
+    "image": "/alpine.webp",
     "description": [
       "Fast, lightweight, and self-sufficient climbing.",
       "Climbers carry minimal gear, move quickly, and rely on natural shelters.",
@@ -13,7 +13,7 @@
   {
     "id":"expedition",
     "name": "Expedition Style",
-    "image": "/expedition.jpg",
+    "image": "/expedition.webp",
     "description": [
       "Used for high-altitude peaks like the Himalayas and Karakoram.",
       "Involves establishing multiple camps, using porters or guides, and acclimatizing over weeks.",
@@ -24,7 +24,7 @@
   {
     "id": "big-wall",
     "name": "Big Wall Climbing",
-    "image": "/big-wall.jpg",
+    "image": "/big-wall.webp",
     "description": [
       "Climbing massive rock faces, often over multiple days.",
       "Requires hauling food, water, and sleeping on portaledges (hanging tents).",
@@ -35,7 +35,7 @@
   {
     "id": "ice-climbing",
     "name": "Ice Climbing",
-    "image": "/ice-climbing.jpg",
+    "image": "/ice-climbing.webp",
     "description": [
       "Scaling frozen waterfalls, glaciers, or ice-covered rock faces.",
       "Requires ice axes, crampons, and specialized protective gear.",
@@ -45,7 +45,7 @@
   {
     "id": "mixed-climbing",
     "name": "Mixed Climbing",
-    "image": "/mixed-climbing.jpg",
+    "image": "/mixed-climbing.webp",
     "description": [
       "Combines rock and ice climbing techniques.",
       "Often seen in Scottish Highlands, Canadian Rockies, and the Alps.",
@@ -55,7 +55,7 @@
   {
     "id": "ski",
     "name": "Ski Mountaineering",
-    "image": "/ski-mountaineering.jpg",
+    "image": "/ski-mountaineering.webp",
     "description": [
       "Combines skiing with mountaineering, allowing rapid descents.",
       "Requires avalanche safety knowledge and ski touring gear.",
@@ -65,7 +65,7 @@
   {
     "id": "high-altitude",
     "name": "High-Altitude Mountaineering",
-    "image": "/high-altitude.jpg",
+    "image": "/high-altitude.webp",
     "description": [
       "Climbing peaks above 7,000m (23,000 ft), often requiring oxygen.",
       "Requires extensive acclimatization and technical climbing skills.",
@@ -75,7 +75,7 @@
   {
     "id": "technical",
     "name": "Technical Climbing",
-    "image": "/technical.jpg",
+    "image": "/technical.webp",
     "description": [
       "Climbing peaks above 7,000m (23,000 ft), often requiring oxygen.",
       "includes difficult rock, ice, or mixed routes that require ropes, belays, and advanced climbing techniques.",
